@@ -2,7 +2,7 @@
 *Turn your green habits into rewards with **EcoBandit**, the gamified platform where saving the planet earns you points!*
 
 <p align="center">
-  <img width="200" alt="Image" style="border-radius:10px" src="https://github.com/user-attachments/assets/bce11a7c-3172-42c0-8ba2-cfa19575dbaa">
+  <img width="200" alt="Image" style="border-radius:10px" src="https://github.com/user-attachments/assets/30247e80-60c5-47db-9f3a-e22f28742cb2">
 </p>
 
 ### Description
